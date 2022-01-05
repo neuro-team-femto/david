@@ -1,0 +1,332 @@
+{
+	"pattrstorage" : 	{
+		"name" : "VF_presets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "happy_low_female",
+				"data" : 				{
+					"which_effect" : [ 0 ],
+					"dsp_matrix" : [ 0, 0, 1, 1, 2, 1, 3, 3, 1, 4, 2, 1 ],
+					"glob_set" : [ 1.0 ],
+					"ctrl_filt" : [ 0.606695 ],
+					"ctrl_infl" : [ 0.723849 ],
+					"ctrl_pitch" : [ 0.590677 ],
+					"ctrl_vibr" : [ 0.415019 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "happy_medium_female",
+				"data" : 				{
+					"which_effect" : [ 0 ],
+					"dsp_matrix" : [ 0, 0, 1, 1, 2, 1, 3, 3, 1, 4, 2, 1 ],
+					"glob_set" : [ 1.998407 ],
+					"ctrl_filt" : [ 0.698745 ],
+					"ctrl_infl" : [ 0.794684 ],
+					"ctrl_pitch" : [ 0.818462 ],
+					"ctrl_vibr" : [ 0.052863 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "happy_high_female",
+				"data" : 				{
+					"which_effect" : [ 0 ],
+					"dsp_matrix" : [ 0, 0, 1, 1, 2, 1, 3, 3, 1, 4, 2, 1 ],
+					"glob_set" : [ 3.0 ],
+					"ctrl_filt" : [ 1.0 ],
+					"ctrl_infl" : [ 1.0 ],
+					"ctrl_pitch" : [ 1.0 ],
+					"ctrl_vibr" : [ 0.052863 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"name" : "happy_low_male",
+				"data" : 				{
+					"which_effect" : [ 0 ],
+					"dsp_matrix" : [ 0, 0, 1, 1, 2, 1, 3, 3, 1, 4, 2, 1 ],
+					"glob_set" : [ 1.0 ],
+					"ctrl_filt" : [ 0.606695 ],
+					"ctrl_infl" : [ 0.723849 ],
+					"ctrl_pitch" : [ 0.590677 ],
+					"ctrl_vibr" : [ 0.415019 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"8" : 			{
+				"id" : 8,
+				"name" : "happy_medium_male",
+				"data" : 				{
+					"which_effect" : [ 0 ],
+					"dsp_matrix" : [ 0, 0, 1, 1, 2, 1, 3, 3, 1, 4, 2, 1 ],
+					"glob_set" : [ 1.998407 ],
+					"ctrl_filt" : [ 0.698745 ],
+					"ctrl_infl" : [ 0.794684 ],
+					"ctrl_pitch" : [ 0.818462 ],
+					"ctrl_vibr" : [ 0.052863 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"9" : 			{
+				"id" : 9,
+				"name" : "happy_high_male",
+				"data" : 				{
+					"which_effect" : [ 0 ],
+					"dsp_matrix" : [ 0, 0, 1, 1, 2, 1, 3, 3, 1, 4, 2, 1 ],
+					"glob_set" : [ 3.0 ],
+					"ctrl_filt" : [ 1.0 ],
+					"ctrl_infl" : [ 1.0 ],
+					"ctrl_pitch" : [ 1.0 ],
+					"ctrl_vibr" : [ 0.052863 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"21" : 			{
+				"id" : 21,
+				"name" : "afraid_low_female",
+				"data" : 				{
+					"which_effect" : [ 1 ],
+					"dsp_matrix" : [ 0, 2, 1, 3, 3, 1, 4, 2, 1 ],
+					"glob_set" : [ 1.0 ],
+					"ctrl_filt" : [ 0.0 ],
+					"ctrl_infl" : [ 0.251046 ],
+					"ctrl_pitch" : [ 0.0 ],
+					"ctrl_vibr" : [ 0.343096 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"22" : 			{
+				"id" : 22,
+				"name" : "afraid_medium_female",
+				"data" : 				{
+					"which_effect" : [ 1 ],
+					"dsp_matrix" : [ 0, 2, 1, 3, 3, 1, 4, 2, 1 ],
+					"glob_set" : [ 1.516043 ],
+					"ctrl_filt" : [ 0.0 ],
+					"ctrl_infl" : [ 0.505348 ],
+					"ctrl_pitch" : [ 0.0 ],
+					"ctrl_vibr" : [ 0.505348 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"23" : 			{
+				"id" : 23,
+				"name" : "afraid_high_female",
+				"data" : 				{
+					"which_effect" : [ 1 ],
+					"dsp_matrix" : [ 0, 2, 1, 3, 3, 1, 4, 2, 1 ],
+					"glob_set" : [ 2.471503 ],
+					"ctrl_filt" : [ 0.0 ],
+					"ctrl_infl" : [ 0.794279 ],
+					"ctrl_pitch" : [ 0.0 ],
+					"ctrl_vibr" : [ 0.823834 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"25" : 			{
+				"id" : 25,
+				"name" : "neutral",
+				"data" : 				{
+					"which_effect" : [ 1 ],
+					"dsp_matrix" : [ 0, 2, 1, 3, 3, 1, 4, 2, 1 ],
+					"glob_set" : [ 1.001593 ],
+					"ctrl_filt" : [ 0.0 ],
+					"ctrl_infl" : [ 0.0 ],
+					"ctrl_pitch" : [ 0.0 ],
+					"ctrl_vibr" : [ 0.0 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"27" : 			{
+				"id" : 27,
+				"name" : "afraid_low_male",
+				"data" : 				{
+					"which_effect" : [ 1 ],
+					"dsp_matrix" : [ 0, 2, 1, 3, 3, 1, 4, 2, 1 ],
+					"glob_set" : [ 3.0 ],
+					"ctrl_filt" : [ 0.0 ],
+					"ctrl_infl" : [ 0.546256 ],
+					"ctrl_pitch" : [ 0.0 ],
+					"ctrl_vibr" : [ 0.651982 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"28" : 			{
+				"id" : 28,
+				"name" : "afraid_medium_male",
+				"data" : 				{
+					"which_effect" : [ 1 ],
+					"dsp_matrix" : [ 0, 2, 1, 3, 3, 1, 4, 2, 1 ],
+					"glob_set" : [ 3.0 ],
+					"ctrl_filt" : [ 0.0 ],
+					"ctrl_infl" : [ 0.704846 ],
+					"ctrl_pitch" : [ 0.0 ],
+					"ctrl_vibr" : [ 0.845815 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"29" : 			{
+				"id" : 29,
+				"name" : "afraid_high_male",
+				"data" : 				{
+					"which_effect" : [ 1 ],
+					"dsp_matrix" : [ 0, 2, 1, 3, 3, 1, 4, 2, 1 ],
+					"glob_set" : [ 3.0 ],
+					"ctrl_filt" : [ 0.0 ],
+					"ctrl_infl" : [ 0.845815 ],
+					"ctrl_pitch" : [ 0.0 ],
+					"ctrl_vibr" : [ 1.0 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"41" : 			{
+				"id" : 41,
+				"name" : "sad_low_female",
+				"data" : 				{
+					"which_effect" : [ 2 ],
+					"dsp_matrix" : [ 0, 0, 1, 1, 2, 1, 3, 3, 1 ],
+					"glob_set" : [ 1.0 ],
+					"ctrl_filt" : [ 0.648536 ],
+					"ctrl_infl" : [ 0.0 ],
+					"ctrl_pitch" : [ 0.569038 ],
+					"ctrl_vibr" : [ 0.0 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"42" : 			{
+				"id" : 42,
+				"name" : "sad_medium_female",
+				"data" : 				{
+					"which_effect" : [ 2 ],
+					"dsp_matrix" : [ 0, 0, 1, 1, 2, 1, 3, 3, 1 ],
+					"glob_set" : [ 2.026586 ],
+					"ctrl_filt" : [ 0.79955 ],
+					"ctrl_infl" : [ 0.0 ],
+					"ctrl_pitch" : [ 0.803052 ],
+					"ctrl_vibr" : [ 0.0 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"43" : 			{
+				"id" : 43,
+				"name" : "sad_high_female",
+				"data" : 				{
+					"which_effect" : [ 2 ],
+					"dsp_matrix" : [ 0, 0, 1, 1, 2, 1, 3, 3, 1 ],
+					"glob_set" : [ 3.0 ],
+					"ctrl_filt" : [ 1.0 ],
+					"ctrl_infl" : [ 0.0 ],
+					"ctrl_pitch" : [ 1.0 ],
+					"ctrl_vibr" : [ 0.0 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"47" : 			{
+				"id" : 47,
+				"name" : "sad_low_male",
+				"data" : 				{
+					"which_effect" : [ 2 ],
+					"dsp_matrix" : [ 0, 0, 1, 1, 2, 1, 3, 3, 1 ],
+					"glob_set" : [ 1.0 ],
+					"ctrl_filt" : [ 0.648536 ],
+					"ctrl_infl" : [ 0.0 ],
+					"ctrl_pitch" : [ 0.569038 ],
+					"ctrl_vibr" : [ 0.0 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"48" : 			{
+				"id" : 48,
+				"name" : "sad_medium_male",
+				"data" : 				{
+					"which_effect" : [ 2 ],
+					"dsp_matrix" : [ 0, 0, 1, 1, 2, 1, 3, 3, 1 ],
+					"glob_set" : [ 2.026586 ],
+					"ctrl_filt" : [ 0.79955 ],
+					"ctrl_infl" : [ 0.0 ],
+					"ctrl_pitch" : [ 0.803052 ],
+					"ctrl_vibr" : [ 0.0 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+,
+			"49" : 			{
+				"id" : 49,
+				"name" : "sad_high_male",
+				"data" : 				{
+					"which_effect" : [ 2 ],
+					"dsp_matrix" : [ 0, 0, 1, 1, 2, 1, 3, 3, 1 ],
+					"glob_set" : [ 3.0 ],
+					"ctrl_filt" : [ 1.0 ],
+					"ctrl_infl" : [ 0.0 ],
+					"ctrl_pitch" : [ 1.0 ],
+					"ctrl_vibr" : [ 0.0 ],
+					"in_gain" : [ 0.0 ],
+					"out_gain" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
